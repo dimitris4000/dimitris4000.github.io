@@ -41,7 +41,7 @@ previewCardImagePlacement = "bottom"
 [Author]
   #name = "DAK4000"
   website = "https://dimitris4000.github.io/"
-  email = "sample@gmail.com"
+  #email = "sample@gmail.com"
   github = "dimitris4000"
   #facebook = "username"
   #instagram = "username"
