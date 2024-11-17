@@ -1,9 +1,104 @@
 baseURL = 'https://dimitris4000.github.io/'
 languageCode = 'en-us'
-title = 'My Personal Blog'
+title = 'DAK4000 Tech Blog'
 theme = 'lightbi-hugo'
+enableRobotsTXT = false
+enableGitInfo = false
+Paginate = 6
+summaryLength  = "30"
 
 # Hugo template settings
 copyright = '2024'
 
+
+[Params]
+selfHosted = true
+mainSections = ["posts","collections"] # Which directories under "content" to search to populate index page.
+dateFormat = "02 January 2006"
+comments = false
+readingTime = false
+wordCount = true
+useHLJS = true
+socialShare = false
+delayDisqus = false
+showRelatedPosts = true
+summaryLength  = "9"
+lunrSearch = true
+gcse = false
+lastmod = false
+rss = true
+pagination = "10"
+hideAuthor = true
+description="A techology blog about advancements and breakthroughs in modern IT"
+previewCardImagePlacement = "bottom"
+
+[Params.Author]
+  name = "DAK4000"
+  website = "https://dimitris4000.github.io/"
+  authorInfo = "She was born to be free, let her run wild in her own way and you will never lose her."
+  authorPostImage = "/img/author-post-img.jpg"
+
+[Author]
+  #name = "DAK4000"
+  website = "https://dimitris4000.github.io/"
+  email = "sample@gmail.com"
+  github = "dimitris4000"
+  #facebook = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #twitter = "username"
+  #linkedin = "username"
+  #threads = "username"
+  #gitlab = "username"
+  #reddit = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #spotify = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #mastodon = "url"
+  #slack = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #500px = "username"
+  #kaggle = "username"
+  #weibo = "username"
+  #xing = "username"
+  #bitbucket = "username"
+  #soundcloud = "username"
+  # codepen = "username"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Collections"
+    url = "/collections/"
+    weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+# [[menu.main]]
+#     name = "Notes"
+#     url = "/notes/"
+#     weight = 4
+# 
+# [[menu.main]]
+#     name = "About"
+#     url = "/about/"
+#     weight = 5
+
+[Taxonomies]
+  tag = "tags"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
