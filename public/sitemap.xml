@@ -12,6 +12,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://dimitris4000.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://dimitris4000.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

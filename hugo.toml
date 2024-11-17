@@ -94,8 +94,9 @@ previewCardImagePlacement = "top"
 #     url = "/about/"
 #     weight = 5
 
-[Taxonomies]
-  tag = "tags"
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
 
 [sitemap]
   changefreq = "monthly"
