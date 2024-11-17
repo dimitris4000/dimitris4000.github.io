@@ -74,10 +74,10 @@ previewCardImagePlacement = "top"
     url = "/"
     weight = 1
 
-[[menu.main]]
-    name = "Collections"
-    url = "/collections/"
-    weight = 2
+# [[menu.main]]
+#     name = "Collections"
+#     url = "/collections/"
+#     weight = 2
 
 [[menu.main]]
     name = "Tags"
