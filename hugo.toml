@@ -29,13 +29,13 @@ lastmod = false
 rss = true
 pagination = "10"
 hideAuthor = true
-description="A techology blog about advancements and breakthroughs in modern IT"
-previewCardImagePlacement = "bottom"
+description="Explore insights on programming technologies, SRE/DevOps, system architecture, reliability, observability, and computer science. Stay informed with expert opinions and detailed posts on cutting-edge trends and tools in technology and public innovations."
+previewCardImagePlacement = "top"
 
 [Params.Author]
   name = "DAK4000"
   website = "https://dimitris4000.github.io/"
-  authorInfo = "She was born to be free, let her run wild in her own way and you will never lose her."
+  authorInfo = "He was born to be free, let him run wild in his own way and you will never lose him."
   authorPostImage = "/img/author-post-img.jpg"
 
 [Author]
