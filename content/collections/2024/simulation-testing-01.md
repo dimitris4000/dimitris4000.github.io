@@ -2,6 +2,7 @@
 title = 'Simulation Testing - A Practical Introduction'
 date = 2024-11-17T11:53:09+02:00
 image = "/imgs/simualtion-testing-a-practical-introduction.webp"
+categories = ["programming"] # One of [programming, tools, computer science, news, projects, notes]
 tags = ["golang", "programming", "testing", "simulation testing", "code quality"]
 draft = true
 +++
