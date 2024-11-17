@@ -1,6 +1,6 @@
 baseURL = 'https://dimitris4000.github.io/'
 languageCode = 'en-us'
-title = 'DAK4000 Tech Blog'
+title = '4000 Tech Blog'
 theme = 'lightbi-hugo'
 enableRobotsTXT = false
 enableGitInfo = false
@@ -33,13 +33,13 @@ description="Explore insights on programming technologies, SRE/DevOps, system ar
 previewCardImagePlacement = "top"
 
 [Params.Author]
-  name = "DAK4000"
+  name = "Dimitris"
   website = "https://dimitris4000.github.io/"
   authorInfo = "He was born to be free, let him run wild in his own way and you will never lose him."
   authorPostImage = "/img/author-post-img.jpg"
 
 [Author]
-  #name = "DAK4000"
+  #name = "Dimitris"
   website = "https://dimitris4000.github.io/"
   #email = "sample@gmail.com"
   github = "dimitris4000"
