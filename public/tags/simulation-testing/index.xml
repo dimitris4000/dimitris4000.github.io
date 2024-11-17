@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulation Testing on DAK4000 Tech Blog</title>
+    <link>http://localhost:1313/tags/simulation-testing/</link>
+    <description>Recent content in Simulation Testing on DAK4000 Tech Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2024</copyright>
+    <lastBuildDate>Sun, 17 Nov 2024 11:53:09 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/simulation-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simulation Testing - A Practical Introduction</title>
+      <link>http://localhost:1313/collections/2024/simulation-testing-01/</link>
+      <pubDate>Sun, 17 Nov 2024 11:53:09 +0200</pubDate>
+      <guid>http://localhost:1313/collections/2024/simulation-testing-01/</guid>
+      <description>&lt;p&gt;In the realm of software testing, simulation testing offers a unique perspective by emulating real-world scenarios in a controlled environment. This approach can provide invaluable insights into how your application performs under specific conditions. In this article, we&amp;rsquo;ll explore what simulation testing is, why it matters, and how you can use it in Go to make your applications more robust.&#xA; &lt;br&gt;&#xA; &lt;br&gt;&#xA; &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
